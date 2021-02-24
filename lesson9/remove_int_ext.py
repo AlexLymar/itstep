@@ -1,4 +1,4 @@
-print('remove_int_ext program:')
+#remove_int_ext
 values_list = [1, 2, 1, 3, 6, 3, 2, 1, 5]
 print('Исходный лист: ', values_list)
 
